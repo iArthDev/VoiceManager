@@ -1,0 +1,22 @@
+{
+  "name": "voicemanager",
+  "version": "0.0.1",
+  "description": "An open-source discord bot made with node.js, that creates temp voice channels with simple features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iArthDev/VoiceManager.git"
+  },
+  "keywords": [
+    "VoiceManager"
+  ],
+  "author": "Arth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iArthDev/VoiceManager/issues"
+  },
+  "homepage": "https://github.com/iArthDev/VoiceManager#readme"
+}
